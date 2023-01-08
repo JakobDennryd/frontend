@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "k9FXu/al8Ix8ZYUyC5TUEs+ZdSD+6Mk/Z5m9VlPPrAs=",
+  "Hash": "gplU89sEL/tak9a4hE89mwtNGhCDgZV/HHFZHYzBMUA=",
   "Source": "frontend",
   "BasePath": "/",
   "Mode": "Root",
@@ -6834,6 +6834,40 @@
       "OriginalItemSpec": "C:\\Users\\Jakob\\Desktop\\strapi-frontend\\frontend\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\frontend.bundle.scp.css"
     },
     {
+      "Identity": "C:\\Users\\Jakob\\Desktop\\strapi-frontend\\frontend\\wwwroot\\appsettings.json",
+      "SourceId": "frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Jakob\\Desktop\\strapi-frontend\\frontend\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "appsettings.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "settings",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\appsettings.json"
+    },
+    {
+      "Identity": "C:\\Users\\Jakob\\Desktop\\strapi-frontend\\frontend\\wwwroot\\blazor_strapi_logo.png",
+      "SourceId": "frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Jakob\\Desktop\\strapi-frontend\\frontend\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "blazor_strapi_logo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\blazor_strapi_logo.png"
+    },
+    {
       "Identity": "C:\\Users\\Jakob\\Desktop\\strapi-frontend\\frontend\\wwwroot\\css\\app.css",
       "SourceId": "frontend",
       "SourceType": "Discovered",
@@ -7053,23 +7087,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
-    },
-    {
-      "Identity": "C:\\Users\\Jakob\\Desktop\\strapi-frontend\\frontend\\wwwroot\\icon-192.png",
-      "SourceId": "frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Jakob\\Desktop\\strapi-frontend\\frontend\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "icon-192.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\icon-192.png"
     },
     {
       "Identity": "C:\\Users\\Jakob\\Desktop\\strapi-frontend\\frontend\\wwwroot\\index.html",

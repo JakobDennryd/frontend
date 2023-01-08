@@ -94,6 +94,39 @@
         }
       },
       {
+        "HashCode": -1605299138,
+        "Kind": "Components.Component",
+        "Name": "frontend.Shared.NavMenu",
+        "AssemblyName": "frontend",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "frontend.Shared.NavMenu"
+        }
+      },
+      {
+        "HashCode": -836171681,
+        "Kind": "Components.Component",
+        "Name": "frontend.Shared.NavMenu",
+        "AssemblyName": "frontend",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "frontend.Shared.NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "frontend.Shared.NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 2144906361,
         "Kind": "Components.Component",
         "Name": "frontend.Shared.MainLayout",
@@ -190,101 +223,55 @@
         }
       },
       {
-        "HashCode": -1605299138,
+        "HashCode": 1362334236,
         "Kind": "Components.Component",
-        "Name": "frontend.Shared.NavMenu",
+        "Name": "frontend.Pages.PostDetails",
         "AssemblyName": "frontend",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "NavMenu"
+            "TagName": "PostDetails"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "frontend.Shared.NavMenu"
+          "Common.TypeName": "frontend.Pages.PostDetails"
         }
       },
       {
-        "HashCode": -836171681,
+        "HashCode": 1372198434,
         "Kind": "Components.Component",
-        "Name": "frontend.Shared.NavMenu",
+        "Name": "frontend.Pages.PostDetails",
         "AssemblyName": "frontend",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "frontend.Shared.NavMenu"
+            "TagName": "frontend.Pages.PostDetails"
           }
         ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "frontend.Shared.NavMenu",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1295193734,
-        "Kind": "Components.Component",
-        "Name": "frontend.Pages.Counter",
-        "AssemblyName": "frontend",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
+        "BoundAttributes": [
           {
-            "TagName": "Counter"
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "frontend.Pages.Counter"
-        }
-      },
-      {
-        "HashCode": -138545733,
-        "Kind": "Components.Component",
-        "Name": "frontend.Pages.Counter",
-        "AssemblyName": "frontend",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "frontend.Pages.Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "frontend.Pages.Counter",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 358080543,
-        "Kind": "Components.Component",
-        "Name": "frontend.Pages.FetchData",
-        "AssemblyName": "frontend",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "frontend.Pages.FetchData"
-        }
-      },
-      {
-        "HashCode": 567611890,
-        "Kind": "Components.Component",
-        "Name": "frontend.Pages.FetchData",
-        "AssemblyName": "frontend",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "frontend.Pages.FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "frontend.Pages.FetchData",
+          "Common.TypeName": "frontend.Pages.PostDetails",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -13649,8 +13636,8 @@
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\Jakob\\Desktop\\strapi-frontend\\frontend\\Pages\\Counter.razor",
-      "TargetPath": "Pages\\Counter.razor",
+      "FilePath": "c:\\Users\\Jakob\\Desktop\\strapi-frontend\\frontend\\Pages\\PostDetails.razor",
+      "TargetPath": "Pages\\PostDetails.razor",
       "FileKind": "component"
     },
     {
@@ -13671,11 +13658,6 @@
     {
       "FilePath": "c:\\Users\\Jakob\\Desktop\\strapi-frontend\\frontend\\Pages\\Index.razor",
       "TargetPath": "Pages\\Index.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\Jakob\\Desktop\\strapi-frontend\\frontend\\Pages\\FetchData.razor",
-      "TargetPath": "Pages\\FetchData.razor",
       "FileKind": "component"
     }
   ],
